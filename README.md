@@ -23,3 +23,7 @@ This Perl script is designed to search for and identify Open Reading Frames (ORF
 - If an ORF is found with at least the minimum number of codons specified by the `$minimum_codons` variable, the script will print its position, length, and the corresponding amino acid sequence.
 - If no ORFs are found, the script will print a message indicating that no ORFs were found.
 
+## License
+
+This project is licensed under the [MIT LICENSE](https://github.com/IvanPedroza/ORF-Finder/blob/main/LICENSE.md).
+
